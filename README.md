@@ -1,4 +1,4 @@
-# TDF Weekly Report
+<img width="1250" alt="Screenshot 2024-09-18 at 5 32 14 PM" src="https://github.com/user-attachments/assets/d67ef13a-ddd8-4b24-bacf-b42cd65a967e"># TDF Weekly Report
 
 ## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
@@ -36,6 +36,11 @@ For this past week, I've started using Github for the first time. I've also star
 It's daunting to learn Rhino and can't say I fully understand how it works, but I'm also excited :)
 
 <img width="1428" alt="Screenshot 2024-09-05 at 4 49 09 PM" src="https://github.com/user-attachments/assets/fbea8258-23ba-4cc6-81ee-3506904275b4">
+
+I was able to make something simple in GH by the end of the week, so I consider it a major achievement:
+
+<img width="1250" alt="Screenshot 2024-09-18 at 5 32 14 PM" src="https://github.com/user-attachments/assets/e2bbc038-2833-4e4a-8b1b-483ac51108c5">
+
 
 --- 
 PPS: 
