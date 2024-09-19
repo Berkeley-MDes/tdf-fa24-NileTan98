@@ -1,5 +1,35 @@
 # TDF Weekly Report
 
+## Week 3 Report
+
+This week, I've finished my cellphone stand!!
+
+<img width="613" alt="Screenshot 2024-09-19 at 1 59 16 PM" src="https://github.com/user-attachments/assets/344927be-1991-4c9b-8347-0c437b5a4cec">
+
+Considering I've never done any 3D modeling and printing in my life. I'm very proud of the end result.
+
+This was the second attempt for me. At first, I printed a rectangular stand:
+
+<img width="1051" alt="Screenshot 2024-09-19 at 1 59 25 PM" src="https://github.com/user-attachments/assets/8b51695b-f339-4c10-b67a-873ef8b3c7e6">
+
+However, the ditch to place the cellphone in was too wide, because I forgot to adjust the parameters to my own cellphone.
+
+Also, I didn't like how bulky the stand was. I wanted to make something smaller, lighter and economical, so I reshaped the stand to be triangular.
+
+Here is the comparison between the two stands:
+
+<img width="979" alt="Screenshot 2024-09-19 at 1 59 35 PM" src="https://github.com/user-attachments/assets/19a7f6eb-45da-455b-9cd2-39cc86d905ad">
+
+You can see how I got there via Grasshopper:
+
+<img width="1185" alt="Screenshot 2024-09-19 at 1 48 41 PM" src="https://github.com/user-attachments/assets/fb4f7513-3a46-49f7-8f33-a89777affea8">
+
+You can also learn more about my process through this Youtube video:
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/3iBHLhVDQ1U/0.jpg)](https://youtu.be/3iBHLhVDQ1U "Everything Is AWESOME")
+
+
+
 ## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
 1. a cellphone
