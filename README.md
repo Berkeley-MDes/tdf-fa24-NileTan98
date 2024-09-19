@@ -1,4 +1,4 @@
-<img width="1250" alt="Screenshot 2024-09-18 at 5 32 14 PM" src="https://github.com/user-attachments/assets/d67ef13a-ddd8-4b24-bacf-b42cd65a967e"># TDF Weekly Report
+# TDF Weekly Report
 
 ## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
