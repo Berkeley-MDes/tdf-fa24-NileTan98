@@ -28,7 +28,7 @@ You can also learn more about my process through this Youtube video:
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/3iBHLhVDQ1U/0.jpg)](https://youtu.be/3iBHLhVDQ1U "Everything Is AWESOME")
 
-
+Speculation: I really like how automated and parametric Grasshopper is. I feel like it lays groundwork for people who aren't from a visual background or know how to draw to build a 3D model in a convenient and effective manner.
 
 ## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
@@ -59,6 +59,7 @@ Here is the Grasshooper commands I used to achieve the modeling above:
 
 I'm somewhat happy with the end result as it was the first thing I ever created via Grasshopper. I feel like I'm starting to get a hang of it thought process behind how Grasshopper works.
 
+Speculation: I was introduced to Adam, an AI text-to-3D tool. I feel like as tools similiar to Adam invovle, 3D modeling will become more accessible to public.
 
 ## Week 1 Report
 For this past week, I've started using Github for the first time. I've also started learning Rhino from beginning.
@@ -71,6 +72,7 @@ I was able to make something simple in GH by the end of the week, so I consider 
 
 <img width="1250" alt="Screenshot 2024-09-18 at 5 32 14 PM" src="https://github.com/user-attachments/assets/e2bbc038-2833-4e4a-8b1b-483ac51108c5">
 
+Speculation: I wonder after Grasshopper, how will Rhino invovle. What's the future for CAD tools?
 
 --- 
 PPS: 
