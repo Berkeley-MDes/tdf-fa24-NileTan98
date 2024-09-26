@@ -1,5 +1,19 @@
 # TDF Weekly Report
 
+## Week 4 Report
+In this week's class we delved into Photon, which is yet again somethig I'm completely unfamiliar with.
+
+I've used Arduino before but this seems more complex and requires much more hardcore coding.
+
+I tried to follow the lecture, but was completely lost during the coding section.
+
+I decided to analyze the workflow of an ATM machine and how we interact with it, because (**speculation** here) I feel like as cashless payment and digital transcation becomes more and more prevelant, physical ATM machines will gradually become obsolete, or they will be in dire need of update and evolution.
+
+Here's the workflow diagram:
+
+![output (1)](https://github.com/user-attachments/assets/499434d3-31cf-4dfc-b90b-705b33391b3a)
+
+
 ## Week 3 Report
 
 This week, I've finished my cellphone stand!!
