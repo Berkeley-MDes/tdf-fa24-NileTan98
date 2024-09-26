@@ -9,6 +9,10 @@ I tried to follow the lecture, but was completely lost during the coding section
 
 I decided to analyze the workflow of an ATM machine and how we interact with it, because (**speculation** here) I feel like as cashless payment and digital transcation becomes more and more prevelant, physical ATM machines will gradually become obsolete, or they will be in dire need of update and evolution.
 
+A Google search proves my instinct to be correct: https://www.paymentsdive.com/news/atms-dwindle-for-third-straight-year/653645/
+
+<img width="862" alt="Screenshot 2024-09-26 at 2 45 11 PM" src="https://github.com/user-attachments/assets/3a2a9944-8336-4b8f-b9db-01bbaa640c16">
+
 Here's the workflow diagram:
 
 ![output (1)](https://github.com/user-attachments/assets/499434d3-31cf-4dfc-b90b-705b33391b3a)
