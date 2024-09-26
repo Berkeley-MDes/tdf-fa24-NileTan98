@@ -13,7 +13,7 @@ A Google search proves my instinct to be correct: https://www.paymentsdive.com/n
 
 <img width="862" alt="Screenshot 2024-09-26 at 2 45 11 PM" src="https://github.com/user-attachments/assets/3a2a9944-8336-4b8f-b9db-01bbaa640c16">
 
-Here's the workflow diagram:
+Anyhow, here's the workflow diagram of a user interacting with an ATM machines as of today:
 
 ![output (1)](https://github.com/user-attachments/assets/499434d3-31cf-4dfc-b90b-705b33391b3a)
 
