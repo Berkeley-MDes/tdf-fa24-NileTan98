@@ -23,6 +23,7 @@ I think these projects are more dynamic than earlier projects because it uses bu
 A cool expansion could be adding notifications—like getting an alert if the FSR senses too much pressure for too long, which could help me adjust my posture. Adding Machine Learning could let the system recognize different pressure patterns, making it even smarter.
 
 **Speculation**
+
 Combining this with other projects, I imagine Machining Learn can be used to adapt a smart workspace that adapts to my habits—sensors tracking my activity, adjusting lighting, and sending helpful reminders—all working together to boost comfort and productivity.
 
 
