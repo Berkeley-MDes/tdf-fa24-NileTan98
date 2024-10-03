@@ -1,6 +1,6 @@
 # TDF Weekly Report
 
-## Week 5 Report
+## Week 5 Report - Part 1
 
 The first file I compiled was 01_helloworld.cpp, because Jeff went through this one in class and I had some familiarity with it.
 
@@ -27,6 +27,26 @@ I was even happier that after I adjusted the delay speed from delay(100) to dela
 https://github.com/user-attachments/assets/3abce062-e404-49a0-991d-1c341b09d588
 
 Even though it's a pretty basic adjustment and I didn't get to the physical connection aspect of thing. I'm happy that I'm following and understanding the script.
+
+##Thoughts:
+
+I've found Photon really useful for building connected projects. It combines timing control, variables, outputs, and cloud integration, making it a pretty cohesive system for prototyping IoT ideas.
+
+The Particle Cloud is a game-changer because I can send that data to the Particle Cloud to monitor everything remotely. Compared to something like an Arduino, it’s awesome that the Wi-Fi and cloud features are built-in, which makes developing and scaling connected projects much easier.
+
+Overall, it’s been a great tool for prototyping, learning about IoT, and seeing my ideas come to life without too much hassle.
+
+Thinking about the kinds of ecosystems that are missing in my daily life, I realize there are a few areas where things could be more connected and intuitive. For instance, I'd love to have a more cohesive home automation system. Right now, my lights, thermostat, and other smart devices work independently, but having a centralized system that learns my habits and automatically adjusts everything for comfort would be amazing.
+
+Going back to the ATM system I mentioned last week, I can see how some of the pieces of the Photon ecosystem could relate to an ATM system.
+
+In an ATM system, timing is critical—things need to happen in a certain order for the experience to be seamless and secure. Just like I use timers to control when sensors activate or when data is pushed to the cloud, an ATM must time its interactions precisely, such as waiting for a PIN entry before allowing a withdrawal.
+
+The concept of variables is also relevant. In my Photon projects, I store sensor values and states as variables. Similarly, an ATM system relies on variables for tracking user information, account balances, and session data. These variables have to be monitored and updated dynamically as users interact with the system.
+
+Outputs, such as LEDs or notifications, are another connection. On the Photon, I use LEDs to signal status, like indicating when a process is complete. In an ATM, status indicators are used to guide users, like showing when a card is being read, if there’s an error, or when cash is ready to be dispensed.
+
+Finally, remote integration via the Particle Cloud is a lot like the way ATMs connect to banking networks. The Photon uses the cloud to communicate with external devices or log data, while an ATM connects to a bank’s servers to verify account details, log transactions, and provide real-time updates. This remote communication ensures everything is synced and functioning as expected, just like in an IoT project.
 
 ## Week 4 Report
 In this week's class we delved into Photon, which is yet again somethig I'm completely unfamiliar with.
