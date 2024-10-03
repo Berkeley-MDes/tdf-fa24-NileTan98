@@ -8,6 +8,15 @@ https://github.com/user-attachments/assets/4d6a2d58-968a-42be-8f0a-2dd44ba5431e
 
 At first, I didn't put in the resistor and the light was too bright. Now I know the importance of resistor.
 
+2. The second tutorial I did was **basic button send-on-change example**
+
+![IMG_5403](https://github.com/user-attachments/assets/7657cace-9489-453d-bc9f-a4bb318fac2a)
+
+At first I was worried because there's no visible action happening to Photon after I connected the pieces, but I was relieved when I saw that the Particle Console recorded my button actions:
+
+<img width="682" alt="Screenshot 2024-10-03 at 1 00 33 PM" src="https://github.com/user-attachments/assets/2340c81a-15c6-4fb3-a94d-0c084ba9dc7c">
+
+
 ## Week 5 Report - Part 1
 
 1. The first file I compiled was 01_helloworld.cpp, because Jeff went through this one in class and I had some familiarity with it.
