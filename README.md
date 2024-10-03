@@ -6,7 +6,7 @@
 
 https://github.com/user-attachments/assets/4d6a2d58-968a-42be-8f0a-2dd44ba5431e
 
-
+At first, I didn't put in the resistor and the light was too bright. Now I know the importance of resistor.
 
 ## Week 5 Report - Part 1
 
