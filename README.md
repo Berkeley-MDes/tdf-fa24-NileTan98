@@ -18,12 +18,17 @@ At first I was worried because there's no visible action happening to Photon aft
 
 3. The third tutorial **fsr (force sensitive resistor) -> RGB-led color fader** is by far my favorite, because it feels highly interactive and I can change the LED colors with my fingers.
 
-https://github.com/user-attachments/assets/3e5db718-2033-4e67-a01d-f1cc4a0dc4dd
+https://github.com/user-attachments/assets/bd651c06-291f-4be5-9ff4-98d5418528a3
 
+At first, I ran into an issue: no matter how hard I pressed, there's only one color.
+
+With the help of Chris at Makerspace, we were able to find the problem after countless tries of troubleshoots: I didn't use the right resistor. The resistor was blocking too much voltage. After switching resistors, I was able to change colors basing on pressure levels.
+
+https://github.com/user-attachments/assets/641b6e3b-fb0a-43e7-975e-3a0bb3b96d6a
 
 **Reflection** 
 
-I think these projects are more dynamic than earlier projects because it uses buttons and sensors, which make the output more interactive. It still has that "input to output" structure, but with added complexity.
+I think these projects are more dynamic than earlier projects because it uses analog inputs buttons and sensors, which make the output more interactive. It still has that "input to output" structure, but with added complexity.
 
 A cool expansion could be adding notifications—like getting an alert if the FSR senses too much pressure for too long, which could help me adjust my posture. Adding Machine Learning could let the system recognize different pressure patterns, making it even smarter.
 
