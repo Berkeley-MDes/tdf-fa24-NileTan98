@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/3abce062-e404-49a0-991d-1c341b09d588
 
 Even though it's a pretty basic adjustment and I didn't get to the physical connection aspect of thing. I'm happy that I'm following and understanding the script.
 
-##Thoughts:
+## Thoughts:
 
 I've found Photon really useful for building connected projects. It combines timing control, variables, outputs, and cloud integration, making it a pretty cohesive system for prototyping IoT ideas.
 
