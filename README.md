@@ -16,6 +16,15 @@ At first I was worried because there's no visible action happening to Photon aft
 
 <img width="682" alt="Screenshot 2024-10-03 at 1 00 33 PM" src="https://github.com/user-attachments/assets/2340c81a-15c6-4fb3-a94d-0c084ba9dc7c">
 
+**Reflection** 
+
+I think these projects are more dynamic than earlier projects because it uses buttons and sensors, which make the output more interactive. It still has that "input to output" structure, but with added complexity.
+
+A cool expansion could be adding notifications—like getting an alert if the FSR senses too much pressure for too long, which could help me adjust my posture. Adding Machine Learning could let the system recognize different pressure patterns, making it even smarter.
+
+**Speculation**
+Combining this with other projects, I imagine Machining Learn can be used to adapt a smart workspace that adapts to my habits—sensors tracking my activity, adjusting lighting, and sending helpful reminders—all working together to boost comfort and productivity.
+
 
 ## Week 5 Report - Part 1
 
