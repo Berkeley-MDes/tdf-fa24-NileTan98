@@ -16,6 +16,11 @@ At first I was worried because there's no visible action happening to Photon aft
 
 <img width="682" alt="Screenshot 2024-10-03 at 1 00 33 PM" src="https://github.com/user-attachments/assets/2340c81a-15c6-4fb3-a94d-0c084ba9dc7c">
 
+3. The third tutorial **fsr (force sensitive resistor) -> RGB-led color fader** is by far my favorite, because it feels highly interactive and I can change the LED colors with my fingers.
+
+https://github.com/user-attachments/assets/3e5db718-2033-4e67-a01d-f1cc4a0dc4dd
+
+
 **Reflection** 
 
 I think these projects are more dynamic than earlier projects because it uses buttons and sensors, which make the output more interactive. It still has that "input to output" structure, but with added complexity.
