@@ -1,12 +1,20 @@
 # TDF Weekly Report
 
+## Week 5 Report - Part 2
+
+1. The first tutorial I did was **Button -> LED pulse rate**, and it worked on the 1st try
+
+https://github.com/user-attachments/assets/4d6a2d58-968a-42be-8f0a-2dd44ba5431e
+
+
+
 ## Week 5 Report - Part 1
 
-The first file I compiled was 01_helloworld.cpp, because Jeff went through this one in class and I had some familiarity with it.
+1. The first file I compiled was 01_helloworld.cpp, because Jeff went through this one in class and I had some familiarity with it.
 
 <img width="1206" alt="Screenshot 2024-09-29 at 10 15 54 PM" src="https://github.com/user-attachments/assets/c76d2fdb-64ff-4c42-a180-7a8aa81162e9">
 
-The second file I compiled was 02_helloworld_spell.cpp because it builts on the first file, and also because I failed to compile this one in class.
+2. The second file I compiled was 02_helloworld_spell.cpp because it builts on the first file, and also because I failed to compile this one in class.
 
 <img width="1505" alt="Screenshot 2024-09-29 at 11 21 57 PM" src="https://github.com/user-attachments/assets/2bd6c8f7-7606-48ff-b8f0-9bcbdf1b93c5">
 
@@ -18,7 +26,7 @@ For line 39, I wrote "Log.info("current character: %c", hello(count))" instead o
 
 However, even now I've realized where my mistake lies, due to my lack of coding knowledge, I still don't know the difference between hello(count) and hello[count]. I wish the future classes would delve more into the coding aspect of things.
 
-The last file I tried was 04_make_it_blink.cpp, I was really happy that I got my photon to flash:
+3. The last file I tried was 04_make_it_blink.cpp, I was really happy that I got my photon to flash:
 
 https://github.com/user-attachments/assets/c2826acc-8541-4877-9477-167c0cf18be9
 
@@ -28,7 +36,7 @@ https://github.com/user-attachments/assets/3abce062-e404-49a0-991d-1c341b09d588
 
 Even though it's a pretty basic adjustment and I didn't get to the physical connection aspect of thing. I'm happy that I'm following and understanding the script.
 
-## Thoughts:
+**Thoughts:**
 
 I've found Photon really useful for building connected projects. It combines timing control, variables, outputs, and cloud integration, making it a pretty cohesive system for prototyping IoT ideas.
 
