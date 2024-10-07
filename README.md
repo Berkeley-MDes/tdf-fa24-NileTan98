@@ -6,6 +6,14 @@ I just did soldering for the first time in my life!!
 
 ![IMG_5525](https://github.com/user-attachments/assets/b9c37924-9ddd-42b3-a3b1-df532d0514c5)
 
+And I was able to successfully connect APDS9960 & compile. It's interesting to see how the mointor change values as I play around with the sensor.
+
+https://github.com/user-attachments/assets/20d93fdb-892c-47c6-885f-08a79e78505d
+
+I was also able to successfully connect MPU6050 & compile. However, this time I'm not entirely sure what the data means:
+
+<img width="649" alt="Screenshot 2024-10-07 at 1 19 22 PM" src="https://github.com/user-attachments/assets/608cd25d-bcb0-4a03-9f11-7c08ff54b770">
+
 
 ## Week 5 Report - Part 2
 
