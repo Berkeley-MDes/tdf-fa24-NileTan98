@@ -1,5 +1,12 @@
 # TDF Weekly Report
 
+## Week 6 Report
+
+I just did soldering for the first time in my life!!
+
+![IMG_5525](https://github.com/user-attachments/assets/b9c37924-9ddd-42b3-a3b1-df532d0514c5)
+
+
 ## Week 5 Report - Part 2
 
 1. The first tutorial I did was **Button -> LED pulse rate**, and it worked on the 1st try
