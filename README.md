@@ -14,6 +14,17 @@ I was also able to successfully connect MPU6050 & compile. However, this time I'
 
 <img width="649" alt="Screenshot 2024-10-07 at 1 19 22 PM" src="https://github.com/user-attachments/assets/608cd25d-bcb0-4a03-9f11-7c08ff54b770">
 
+This week, I've also paired with Peng Xiao to do our Project 2.
+
+Here are the diagrams explaining our proposed project, **Lumia**:
+
+![A4 - 1](https://github.com/user-attachments/assets/12fc9bfd-9e53-425e-a247-3507828314d6)
+
+![Frame 3](https://github.com/user-attachments/assets/8374fc5b-2405-4240-98f2-5c9f2fa8efac)
+
+**Speculation**:
+
+I feel like Photon is very useful for dynamic interactions in a project like Lumia. I could use the Photon to collect sensor data, such as proximity, temperature, or motion, and trigger a wide range of outputs like sound, light, or even digital displays. This could create fully immersive and reactive environments where the audience becomes an integral part of the artwork. For example, n our project, as people move, the Photon could adjust lighting intensity and colors or play different sound compositions based on sensor inputs. I want to explore what more Photon can do to make art come alive.
 
 ## Week 5 Report - Part 2
 
