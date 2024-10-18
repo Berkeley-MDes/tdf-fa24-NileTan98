@@ -1,5 +1,28 @@
 # TDF Weekly Report
 
+## Week 7 Report
+
+This week, my teammate Xiao & I delved into our project. 
+
+It's very cool being able to employ what we learned in the previous weeks into practice. We used the **gyro accelerometer** as well as the **potentiometer** in our kit as two of the inputs. 
+
+We have also established cloud connections between two Photon Particles for the first time:
+
+![WechatIMG400](https://github.com/user-attachments/assets/5a4ae9db-bfc3-4592-9fcb-87757de8fded)
+
+https://github.com/user-attachments/assets/a81ce496-364f-4f19-ac63-743a7ce7ae46
+
+The cloud connection was very cool, remotely controlling another Photon feels like magic to me. However, we also quickly discovered the downside of cloud as well: the wifi can be unstable and the Photons would randomly go offline. There's not much we can do in this situation other than waiting for the Photons to go back online.
+
+We also tried out Neopixel for the first time. Neopixel looks so much cooler than a regular LED lightbulb but also more complicated to use.
+
+The neopixel library in VS Code turned out to be very problematic. The code always fails to run despite the library being added and the neopixel colors wouldn't change, or even light up on command.
+
+![4031729210514_ pic](https://github.com/user-attachments/assets/2a458299-fd49-43f0-a7b6-2ddbce2b5159)
+
+![4011729210512_ pic_hd](https://github.com/user-attachments/assets/9148c101-05c9-407c-9a2d-fb3e93511333)
+
+Still, I feel like our team is making major progresses and learning so much new things in the 
 ## Week 6 Report
 
 I just did soldering for the first time in my life!!
