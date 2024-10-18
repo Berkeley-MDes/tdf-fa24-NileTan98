@@ -22,7 +22,10 @@ The neopixel library in VS Code turned out to be very problematic. The code alwa
 
 ![4011729210512_ pic_hd](https://github.com/user-attachments/assets/9148c101-05c9-407c-9a2d-fb3e93511333)
 
-Still, I feel like our team is making major progresses and learning so much new things in the 
+Still, I feel like our team is making major progresses and learning so much new things in the process.
+
+**Speculation:** I feel like the cloud function is highly useful in that it can remotely share data and therefore control other Photons. This way, we can truly build an ecosystem, instead of a singular device that's constrained by the physical space. However, I feel the current cloud storage limits its potential usage. If we have large enough cloud storage space, Photons can become a truly powerful tool for interactive design. 
+
 ## Week 6 Report
 
 I just did soldering for the first time in my life!!
