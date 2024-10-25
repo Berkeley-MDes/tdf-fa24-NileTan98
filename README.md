@@ -2,6 +2,25 @@
 
 ## Week 8 Report
 
+The biggest achievement of the week was definitely finishing Project 2, which you can watch the video here:
+
+https://youtu.be/SZh687QCjRw
+
+![IMG_5835](https://github.com/user-attachments/assets/01136b14-09b2-4713-baf4-b480cebb76c0)
+
+We are very happy with the way the project has turned down. It definitely achieved our originial conception, as presented in the diagram here:
+
+![WechatIMG444](https://github.com/user-attachments/assets/0463f6a4-76ca-44e8-b2b2-ae3c0cc3753f)
+
+For **speculation**, I believe there's a wider scope of application of how the Lumia project can be used. This is what we wrote in our report video:
+
+"Imagine Lumia not just as a museum installation, but as a transformative technology that can reshape how we experience spaces. Picture public spaces where architecture comes alive with the flow of people, retail environments that create personalized shopping experiences, or therapy rooms where light and sound work together to aid rehabilitation.
+
+The possibilities extend from corporate lobbies to theme park queues, from meditation spaces to interactive stage designs – anywhere human interaction can be enhanced through responsive environments. In conclusion, Lumia isn't just an art installation; it's a platform for reimagining how we interact with our surroundings."
+
+I hope this project can be something we continually work towards in my journey at MDes.
+
+
 ## Week 7 Report
 
 This week, my teammate Xiao & I delved into our project. 
