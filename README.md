@@ -1,5 +1,12 @@
 # TDF Weekly Report
 
+## Week 9 Report
+This week, we've started learning LLM, which is very new & exciting and feels very topical.
+
+TJ's tutorial is very detailed and helpful. Here's my attempt at experiment 1:
+
+<img width="1396" alt="Screenshot 2024-10-31 at 12 42 40 PM" src="https://github.com/user-attachments/assets/3b0b16f7-c20f-423a-83d8-2c59df766ad9">
+
 ## Week 8 Report
 
 The biggest achievement of the week was definitely finishing Project 2, which you can watch the video here:
