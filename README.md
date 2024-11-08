@@ -114,6 +114,9 @@ Here are the diagrams explaining our proposed project, **Lumia**:
 
 ![Frame 3](https://github.com/user-attachments/assets/8374fc5b-2405-4240-98f2-5c9f2fa8efac)
 
+**Reflection**
+esting sensor interactions in real-time was challenging, especially in creating smooth feedback loops. Despite technical issues, these tests provided valuable insights into designing interactive experiences that evolve based on user presence.
+
 **Speculation**:
 
 I feel like Photon is very useful for dynamic interactions in a project like Lumia. I could use the Photon to collect sensor data, such as proximity, temperature, or motion, and trigger a wide range of outputs like sound, light, or even digital displays. This could create fully immersive and reactive environments where the audience becomes an integral part of the artwork. For example, n our project, as people move, the Photon could adjust lighting intensity and colors or play different sound compositions based on sensor inputs. I want to explore what more Photon can do to make art come alive.
