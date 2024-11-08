@@ -223,6 +223,8 @@ Anyhow, here's the workflow diagram of a user interacting with an ATM machines a
 
 ![output (1)](https://github.com/user-attachments/assets/499434d3-31cf-4dfc-b90b-705b33391b3a)
 
+**Reflection**
+For Week 4, I explored foundational elements of interactive design through early experimentation with sensors and the Particle Photon. The focus was on understanding basic input and output mechanics to support responsive interaction.
 
 ## Week 3 Report
 
