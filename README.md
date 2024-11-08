@@ -1,5 +1,22 @@
 # TDF Weekly Report
 
+## Week 10 Report
+This week, I've finished project 3! You can watch the full video presentation here:
+
+https://youtu.be/wzkS6C41568
+
+Here's the diagram for my exercise 5:
+
+<img width="1082" alt="Screenshot 2024-11-07 at 9 47 17 PM" src="https://github.com/user-attachments/assets/6371ba84-a3c1-4e94-99d1-c01fd6a531c0">
+
+As a non-native English speaker, I've always been chagrined by my inability to write and speak in intricate and elegant prose. Therefore, I want to create a bot who represents me while speaking in such a language. For this purpose, I picked one of my favorite writers, Joan Didion as my reference.
+
+To achieve this purpose, I built upon exercise 3, where there’s already a knowledge base of my information connected to the chatbot. Then, I created a new knowledge base that contains the entirety of Didion’s essay collection, White Album. I then connected this Didion knowledge based to the chatbot via message/prompt. To make sure the bot is actually referencing my knowledge instead of Didion’s info on the internet, I made the instructions as simple as Answer in the style of ${JoanDidion}.
+
+**Reflection**: Working on project 3, my biggest challenge and reward was seeing the chatbot’s evolution step by step. As the instructions become more complex, the chatbot’s answers become more precise. It’s amazing how the bot went from the generic, nondescript answer in exercise 1 to giving out Didion-esque prose about my TDF projects in exercise 5.
+
+**Speculation**: For millions of non-native English speakers, brilliant ideas often get lost in translation. I believe AI chatbot can help by transforming my thoughts into eloquent prose, styled after literary masters. No more second-guessing your expression or feeling limited by vocabulary. Whether it's writing work emails or personal stories, it preserves my unique perspective while delivering the polished language I've always aspired to use. It's like having a literary interpreter by my side, turning my authentic voice into confident, sophisticated languages.
+
 ## Week 9 Report
 This week, we've started learning LLM, which is very new & exciting and feels very topical.
 
