@@ -85,6 +85,8 @@ The neopixel library in VS Code turned out to be very problematic. The code alwa
 
 Still, I feel like our team is making major progresses and learning so much new things in the process.
 
+**Reflection:** This week was all about experimenting with the hardware’s responsiveness and troubleshooting the setup. I encountered challenges in syncing the sensor data with the desired visual output, but each iteration brought new insights into the intricacies of real-time interaction. This project is pushing me to think more deeply about the role of digital tools in creating immersive experiences
+
 **Speculation:** I feel like the cloud function is highly useful in that it can remotely share data and therefore control other Photons. This way, we can truly build an ecosystem, instead of a singular device that's constrained by the physical space. However, I feel the current cloud storage limits its potential usage. If we have large enough cloud storage space, Photons can become a truly powerful tool for interactive design. 
 
 ![output (2)](https://github.com/user-attachments/assets/85cb6292-90cc-450f-8ba0-2b975f1afaa1)
