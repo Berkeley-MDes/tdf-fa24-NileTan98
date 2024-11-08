@@ -50,6 +50,8 @@ We are very happy with the way the project has turned down. It definitely achiev
 
 ![WechatIMG444](https://github.com/user-attachments/assets/0463f6a4-76ca-44e8-b2b2-ae3c0cc3753f)
 
+**Reflecting** on Week 8, completing Project 2, Lumia, felt like a major step forward. The installation achieved its goal of interactive engagement, successfully using light and sound to respond to viewers' presence. The speculative vision for Lumia hints at broader applications—transforming public spaces, therapeutic settings, and even entertainment areas into immersive, responsive environments. 
+
 For **speculation**, I believe there's a wider scope of application of how the Lumia project can be used. This is what we wrote in our report video:
 
 "Imagine Lumia not just as a museum installation, but as a transformative technology that can reshape how we experience spaces. Picture public spaces where architecture comes alive with the flow of people, retail environments that create personalized shopping experiences, or therapy rooms where light and sound work together to aid rehabilitation.
@@ -245,7 +247,7 @@ You can also learn more about my process through this Youtube video:
 
 [![Everything Is AWESOME](https://img.youtube.com/vi/3iBHLhVDQ1U/0.jpg)](https://youtu.be/3iBHLhVDQ1U "Everything Is AWESOME")
 
-Speculation: I really like how automated and parametric Grasshopper is. I feel like it lays groundwork for people who aren't from a visual background or know how to draw to build a 3D model in a convenient and effective manner.
+**Speculation**: I really like how automated and parametric Grasshopper is. I feel like it lays groundwork for people who aren't from a visual background or know how to draw to build a 3D model in a convenient and effective manner.
 
 ## Week 2 Report
 Here's my understanding of how to use Grasshopper to create a cellphone stand. It starts with setting up the parameters, then we go on to make two separate things:
