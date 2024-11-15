@@ -6,9 +6,11 @@ This week, I've finished my project 3 report. Because of Veterans' Day. There wa
 Here are the diagrams from my report:
 
 System Architecture
+
 <img width="634" alt="Screenshot 2024-11-14 at 11 07 39 PM" src="https://github.com/user-attachments/assets/f52e638d-ab26-4880-b8d6-b7fe1510ed58">
 
 System Process
+
 <img width="620" alt="Screenshot 2024-11-14 at 11 08 38 PM" src="https://github.com/user-attachments/assets/67da98f4-577f-4857-a042-8f494dc5d6bf">
 
 **Reflection**
