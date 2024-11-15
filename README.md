@@ -1,5 +1,22 @@
 # TDF Weekly Report
 
+## Week 11 Report
+This week, I've finished my project 3 report. Because of Veterans' Day. There was no class on Monday.
+
+Here are the diagrams from my report:
+
+System Architecture
+<img width="634" alt="Screenshot 2024-11-14 at 11 07 39 PM" src="https://github.com/user-attachments/assets/f52e638d-ab26-4880-b8d6-b7fe1510ed58">
+
+System Process
+<img width="620" alt="Screenshot 2024-11-14 at 11 08 38 PM" src="https://github.com/user-attachments/assets/67da98f4-577f-4857-a042-8f494dc5d6bf">
+
+**Reflection**
+Through peer feedback, I learned that the project resonated particularly well in its storytelling and real-world application. The clear problem-solution identification and personal motivation made the technical implementation more meaningful. Areas for growth include expanding the style options and better polishing the product.
+
+**Speculation**
+​​The creation of the Didion-style bot suggests a future where personal and professional communication could be significantly enhanced through LLM-mediated style adaptation. This might lead to a culture where people routinely use AI to elevate their communication, particularly benefiting non-native speakers like myself in academic and professional contexts. However, I can also see that this will raise questions about authenticity and the value of personal voice in communication.
+
 ## Week 10 Report
 This week, I've finished project 3! You can watch the full video presentation here:
 
