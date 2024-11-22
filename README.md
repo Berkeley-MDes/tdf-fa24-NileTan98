@@ -1,5 +1,30 @@
 # TDF Weekly Report
 
+## Week 12 Report
+This week, I've teamed up with Yixuan and come up with a proposal for our final project: ZeroWaste.
+
+In a world increasingly burdened by waste and careless disposal habits, the need for more intelligent, sustainable solutions is more urgent than ever. This project tackles this issue by developing a context-aware, autonomous waste disposal system that not only handles garbage collection but also engages users with emotional feedback, encouraging a more mindful attitude towards waste management.
+Building on the foundation of Project 2, the ZeroWaste project expands this mission by integrating Photon-based detection, interactive user engagement through ZeroWidth, and exploratory AI capabilities to promote sustainability and environmental awareness.
+
+Here are the diagrams for ZeroWaste:
+
+![system-architecture-updated](https://github.com/user-attachments/assets/8e6e892d-6a58-4987-8608-3f7401f8affe)
+
+The system architecture consists of two primary user interaction paths: Physical Users interact directly with the RoBin Smart Bin, which is equipped with cameras for waste recognition, LED display for visual feedback, servos for mechanical movement, and sensors for motion detection. Web Users interact through a separate Web Interface that provides a user dashboard, analytics view, settings panel, and feedback system. Both paths converge in the backend, where the AI Processing Layer handles computer vision and ZeroWidth AI capabilities for waste recognition and user interaction. 
+
+All data is ultimately managed by Cloud Services, which includes a database for storage, analytics for data processing, and an API Gateway that serves both the physical bin and web interface. This dual-interface architecture enables both real-time physical waste management and remote monitoring/configuration capabilities.
+
+![waste-sorting-sequence-soft](https://github.com/user-attachments/assets/1822fbc8-5b58-4b3e-b223-04206166642b)
+
+The Process Sequence Diagram illustrates two parallel but distinct interaction flows in the ZeroWaste system. The physical interaction flow begins when a user approaches RoBin Smart Bin, triggering motion sensors. When the user presents waste, the bin's camera captures an image, which is sent to the AI Layer for processing. The AI Layer, utilizing computer vision and ZeroWidth AI, analyzes the image and sends the classification to Cloud Services, which returns sorting instructions that RoBin displays to the user. 
+Simultaneously, the web interaction flow enables remote system management: web users can access the dashboard through the Web Interface to view analytics data retrieved from Cloud Services, and can update system settings which are then saved back to the cloud. This dual-flow design ensures both immediate physical waste management and comprehensive remote monitoring capabilities.
+
+![Firefly 20241120204153](https://github.com/user-attachments/assets/f81d75f5-1377-47bc-82c6-c1c8445321e9)
+
+**Speculation:** The ZeroWaste project points to a future that fundamentally transform waste management practices through its innovative combination of emotional feedback and AI-driven insights. As the system learns from user behavior and grows its dataset, it could evolve beyond simple waste sorting to become a catalyst for community-wide behavioral change. The integration of Photon-based detection with ZeroWidth's interactive capabilities could create a ripple effect, where individual waste consciousness spreads to influence family, workplace, and community practices. In the longer term, the aggregated data from multiple installations could provide valuable insights for municipal waste management, potentially leading to more efficient collection routes and targeted sustainability initiatives. Most significantly, by making waste disposal an interactive, emotionally engaging experience, ZeroWaste could help normalize sustainable practices for future generations, contributing to a broader cultural shift toward environmental responsibility.
+
+**Reflection:** The ZeroWaste project deepens the environmental advocacy established in Project 2, combining technology with human responsibility. By leveraging Photon for detection and interaction, ZeroWidth for education, and AI for potential waste classification, the system offers a comprehensive solution for promoting sustainability. Through playful yet thought-provoking engagement, ZeroWaste calls for greater mindfulness in waste disposal and environmental stewardship.
+
 ## Week 11 Report
 This week, I've finished my project 3 report. Because of Veterans' Day. There was no class on Monday.
 
