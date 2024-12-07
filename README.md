@@ -15,6 +15,8 @@ My team is also exploring using Computer Vision as part of our final project. I 
 
 **Speculation** As a design student, I'm fascinated by how Google Teachable Machine could revolutionize the way we prototype interactive experiences. You can literally drag and drop images, audio, or movement data to create simple AI models that respond to input in real-time – no coding required! I can see this being super useful for testing interactive installations or creating quick proof-of-concepts for client presentations. While it's not perfect for professional applications, it's amazing for rapid prototyping and learning how machine learning actually works. Plus, it's free and runs in your browser, making it really accessible for students and designers who might be intimidated by traditional coding.
 
+**Reflection**: This week, I learned the importance of leveraging accessible tools like Google Teachable Machine to rapidly prototype and test interactive ideas without coding expertise. Exploring how ZeroWidth's "Add Knowledge" function can enhance personalized user interactions deepened my understanding of designing systems that adapt and respond dynamically. These insights reinforced the value of combining technical exploration with design thinking, pushing me to rethink how simple, approachable technologies can unlock complex creative possibilities in a short timeframe.
+
 ## Week 12 Report
 This week, I've teamed up with Yixuan and come up with a proposal for our final project: ZeroWaste.
 
