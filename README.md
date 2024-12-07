@@ -1,5 +1,20 @@
 # TDF Weekly Report
 
+## Final Weekly Report 
+This week, I explored deeper into ZeroWidth for my final project.
+
+![Screenshot 2024-12-04 at 10 52 13 AM](https://github.com/user-attachments/assets/c98201a7-59b8-4509-a7e0-7e02c14e01d1)
+
+I explored the possibilities of recording past user interactions as part of the knowledge base for ZeroWidth, and was happy to learn that this can be achieved through "Add Knowledge" function.
+
+![Screen Shot 2024-12-03 at 7 25 57 PM](https://github.com/user-attachments/assets/5641c0d6-e3d1-472e-a3f2-6e6ded1ac0e8)
+
+My team is also exploring using Computer Vision as part of our final project. I found out about Google Teachable Machine, which is very useful as it serves as a machine learning platform that we can train our computer cameras to recgonize objects code-free.
+
+![WechatIMG321](https://github.com/user-attachments/assets/f8bed6a4-d261-4c53-a2dd-062e32398522)
+
+**Speculation** As a design student, I'm fascinated by how Google Teachable Machine could revolutionize the way we prototype interactive experiences. You can literally drag and drop images, audio, or movement data to create simple AI models that respond to input in real-time – no coding required! I can see this being super useful for testing interactive installations or creating quick proof-of-concepts for client presentations. While it's not perfect for professional applications, it's amazing for rapid prototyping and learning how machine learning actually works. Plus, it's free and runs in your browser, making it really accessible for students and designers who might be intimidated by traditional coding.
+
 ## Week 12 Report
 This week, I've teamed up with Yixuan and come up with a proposal for our final project: ZeroWaste.
 
